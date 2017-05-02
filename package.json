@@ -13,5 +13,10 @@
   "bugs": {
     "url": "https://github.com/oscars1997/express_test/issues"
   },
-  "homepage": "https://github.com/oscars1997/express_test#readme"
+  "homepage": "https://github.com/oscars1997/express_test#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
 }
